@@ -1,7 +1,7 @@
 # Random Email and Password Generator by Namlucky from A26K73 (REPG_A26)
 
 This Python-based Streamlit app generates random emails and passwords based on a user-defined word list. It provides an interactive interface to customize email prefixes, the number of entries, and supports exporting data as an Excel file. The app is hosted online using Streamlit Cloud.
-
+![App Screenshot](sample_image.png)
 ---
 
 Features
