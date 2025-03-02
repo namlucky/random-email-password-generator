@@ -5,7 +5,7 @@ This Python-based Streamlit app generates random emails and passwords based on a
 ![App Screenshot](sample_image.png)
 ---
 
-Features
+## Features
 - Custom Word List: Upload your own `words.txt` file to use meaningful words for email and password generation.
 - Random Email Generation: Creates emails with a customizable prefix (e.g., `my_custom`) and random words and numbers.
 - Random Password Generation: Generates secure passwords with:
@@ -16,7 +16,7 @@ Features
 
 ---
 
-Installation and Setup
+## Installation and Setup
 
 ### Prerequisites
 - Python 3.8 or later
@@ -35,7 +35,7 @@ Open the link in your browser (e.g., `http://localhost:8501`).
 
 ---
 
-How to Use
+## How to Use
 1. Upload `words.txt`:
 - Create a file `words.txt` with one word per line (e.g., `Sunny`, `Golden`, `Silver`).
 - Upload the file using the app.
@@ -52,7 +52,7 @@ How to Use
 
 ---
 
-Project Structure
+## Project Structure
 
 project-folder/
 
@@ -70,7 +70,7 @@ project-folder/
 
 ---
 
-Example Output
+## Example Output
 
 ### Table Display in the App:
 | Email                       | Password           |
@@ -80,7 +80,7 @@ Example Output
 
 ---
 
-Excel Output:
+## Excel Output:
 When you download the generated data, it will be saved as `emails_passwords.xlsx`.
 
 | Email                       | Password           |
@@ -90,25 +90,15 @@ When you download the generated data, it will be saved as `emails_passwords.xlsx
 
 ---
 
-Deployment on Streamlit Cloud
+## Deployment on Streamlit Cloud
 
 This app is deployed using Streamlit Cloud for free hosting. You can access and use the app online by visiting the following link:
 
-App Link: Coming soon!
+## App Link: Coming soon!
 
 ---
 
-License
-This project is licensed under the PCT-EDU-VN License. See the https://pct.edu.vn for details.
-
----
-
-Contributions
-Contributions, issues, and feature requests are welcome! Feel free to open a pull request or create an issue in the repository.
-
----
-
-Technical Details
+## Technical Details
 
 ### Dependencies
 - `streamlit`: For user interface and interactivity.
@@ -116,16 +106,11 @@ Technical Details
 - `openpyxl`: For Excel file handling.
 
 ### Configuration
-You can customize the app using a `config.json` file (optional):
+You can customize the app using a `config.json` file (optional)
 
 ---
 
 # Random Email and Password Generator (Local Version)
-
-This Python-based program generates random emails and passwords using a customizable word list (`words.txt`). The program is designed to run locally on your computer. It provides functionality to:
-1. Generate emails with a custom prefix and meaningful random words.
-2. Generate secure passwords with numbers, special characters, and meaningful words.
-3. Export the results to an Excel file.
 
 ---
 
@@ -216,9 +201,15 @@ Bright
 
 ---
 
-Author
+## Author
 namlucky 
 - GitHub: https://github.com/namlucky
 - Email: nambluebeo@gmail.com
 
+---
+## License
+This project is licensed under the PCT-EDU-VN License. See the https://pct.edu.vn for details.
 
+---
+## Contributions 
+Contributions, issues, and feature requests are welcome! Feel free to open a pull request or create an issue in the repository.
