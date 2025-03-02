@@ -117,6 +117,7 @@ Technical Details
 
 ### Configuration
 You can customize the app using a `config.json` file (optional):
+
 {
 "output_directory": "output",
 "default_email_prefix": "my_custom",
