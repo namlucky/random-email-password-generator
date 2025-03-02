@@ -112,7 +112,7 @@ You can customize the app using a `config.json` file (optional)
 
 ---
 
-# Random Email and Password Generator (Local Version)
+# Random Email and Password Generator (Local Version no deploy on website)
 
 ---
 
