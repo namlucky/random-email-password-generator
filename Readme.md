@@ -4,7 +4,7 @@ This Python-based Streamlit app generates random emails and passwords based on a
 
 ---
 
-🌟 Features
+Features
 - Custom Word List: Upload your own `words.txt` file to use meaningful words for email and password generation.
 - Random Email Generation: Creates emails with a customizable prefix (e.g., `my_custom`) and random words and numbers.
 - Random Password Generation: Generates secure passwords with:
@@ -15,7 +15,7 @@ This Python-based Streamlit app generates random emails and passwords based on a
 
 ---
 
-🛠️ Installation and Setup
+Installation and Setup
 
 ### Prerequisites
 - Python 3.8 or later
@@ -34,7 +34,7 @@ Open the link in your browser (e.g., `http://localhost:8501`).
 
 ---
 
-🚀 How to Use
+How to Use
 1. Upload `words.txt`:
 - Create a file `words.txt` with one word per line (e.g., `Sunny`, `Golden`, `Silver`).
 - Upload the file using the app.
@@ -51,7 +51,7 @@ Open the link in your browser (e.g., `http://localhost:8501`).
 
 ---
 
-📁 Project Structure
+Project Structure
 project-folder/
 
 ├── app.py # Main Streamlit application
@@ -63,7 +63,7 @@ project-folder/
 
 ---
 
-📊 Example Output
+Example Output
 
 ### Table Display in the App:
 | Email                       | Password           |
@@ -83,25 +83,25 @@ When you download the generated data, it will be saved as `emails_passwords.xlsx
 
 ---
 
-🌐 Deployment on Streamlit Cloud
+Deployment on Streamlit Cloud
 
 This app is deployed using Streamlit Cloud for free hosting. You can access and use the app online by visiting the following link:
 
-👉 App Link: https://your-username-random-email-password-generator.streamlit.app
+App Link: Coming soon!
 
 ---
 
-📝 License
+License
 This project is licensed under the PCT-EDU-VN License. See the https://pct.edu.vn for details.
 
 ---
 
-🤝 Contributions
+Contributions
 Contributions, issues, and feature requests are welcome! Feel free to open a pull request or create an issue in the repository.
 
 ---
 
-🛠️ Technical Details
+Technical Details
 
 ### Dependencies
 - `streamlit`: For user interface and interactivity.
@@ -121,7 +121,7 @@ You can customize the app using a `config.json` file (optional):
 
 Author
 
-👤 namlucky 
+namlucky 
 - GitHub: https://github.com/namlucky
 - Email: nambluebeo@gmail.com
 
