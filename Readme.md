@@ -134,17 +134,24 @@ This Python-based program generates random emails and passwords using a customiz
   Supply a `words.txt` file containing meaningful words (one word per line) to personalize email and password generation.
 - **Random Email Generator**:
   Automatically generates random email addresses, such as:
+  
 my_custom+Golden123@gmail.com
+
 my_custom+Sunny789@gmail.com
+
 - **Password Generator**:
 Creates secure passwords using:
 - A capitalized word.
 - A lowercase word.
 - A random number.
 - A special character.
+
 Example:
+
 Brightmagic47!
+
 Silverforest28@
+
 - **Excel Export**:
 Save the generated emails and passwords as an Excel file on your desktop.
 
