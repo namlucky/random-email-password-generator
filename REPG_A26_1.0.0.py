@@ -50,7 +50,8 @@ def export_to_excel(emails, passwords):
 
 # Streamlit Web App
 def main():
-    st.title("Random Email and Password Generator BY SEKANAMI AKA NGUYEN BAO NAM")
+    st.title("Random Email and Password Generator by Namlucky")
+    st.write("Checkout my github link for detail and local version!")
     st.write("This app generates random emails and passwords based on your input. Upload a `words.txt` file to get started.")
 
     # Upload words.txt
