@@ -94,7 +94,9 @@ When you download the generated data, it will be saved as `emails_passwords.xlsx
 
 This app is deployed using Streamlit Cloud for free hosting. You can access and use the app online by visiting the following link:
 
-## App Link: Coming soon!
+## App Link: 
+
+https://repga26.streamlit.app/
 
 ---
 
