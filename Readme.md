@@ -53,6 +53,7 @@ Open the link in your browser (e.g., `http://localhost:8501`).
 
 📁 Project Structure
 project-folder/
+
 ├── app.py # Main Streamlit application
 ├── requirements.txt # List of Python dependencies
 ├── words.txt # Example word list file
@@ -91,7 +92,7 @@ This app is deployed using Streamlit Cloud for free hosting. You can access and 
 ---
 
 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the PCT-EDU-VN License. See the https://pct.edu.vn for details.
 
 ---
 
