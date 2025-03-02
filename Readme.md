@@ -205,8 +205,7 @@ Bright
 
 ## Author
 namlucky 
-- GitHub: [namlucky]([URL](https://github.com/namlucky))
-
+- GitHub: [namlucky](https://github.com/namlucky)
 - Email: nambluebeo@gmail.com
 - Follow us on : [Orionis F26](https://www.facebook.com/profile.php?id=61564314490514)
 
